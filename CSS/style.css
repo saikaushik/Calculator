@@ -76,7 +76,8 @@
     #calculator{
         width: 80vw;
         height: 95vh;
-        margin: auto;
+        margin-left: 10vw;
+        margin-right: 10vw;
         margin-top: 2.5vh;
     }
 
