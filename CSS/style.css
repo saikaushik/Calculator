@@ -13,7 +13,7 @@
     height: 20%;
     border: 2px solid gray;
     border-bottom: none;
-    border-radius: 20px;
+    border-radius: 12px;
     text-align: right;
     font-size: larger;
     /* box-shadow: 2px 2px gray; */
@@ -39,7 +39,7 @@
     border-left: 1px solid gray;
     border-bottom: 1px solid gray;
     border-top: 1px solid gray;
-    border-radius: 20px;
+    border-radius: 12px;
     font-size: larger;
     background-color: #F1F3F4;
     box-shadow: 2px 2px gray;
